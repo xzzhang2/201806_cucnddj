@@ -2,7 +2,7 @@
 
 ### Notes
  - This repository was created on 18 June 2018. It stores the course documents of the 2018 Data-driven Journalism Workshop for the Chinese University of Communication at Nanjing (CUCN) (中国传媒大学南广学院2018数据新闻工作坊).
- - The workshop was held on 12 - 14 June 2018 in CUCN at Nanjing, co-lectured by [Dr. Xinzhi Zhang](www.drxinzhizhang.com) and [Mr. Pii Hu](http://www.jour.hkbu.edu.hk/eng/people/mr-pili-hu/), both from the [Department of Journalism](http://www.jour.hkbu.edu.hk/eng/) at [Hong Kong Baptist University](http://www.hkbu.edu.hk).  
+ - The workshop was held on 12 - 14 June 2018 in CUCN at Nanjing, co-lectured by [Dr. Xinzhi Zhang](http://www.drxinzhizhang.com) and [Mr. Pii Hu](http://hupili.net), both from the [Department of Journalism](http://www.jour.hkbu.edu.hk/eng/) at [Hong Kong Baptist University](http://www.hkbu.edu.hk).  
  - In this repo, the slides and readings are in English, whereas the syllabus, MOI, and the working language among the students were Mandarin.
 
 ### Course Syllabus | 课程大纲
