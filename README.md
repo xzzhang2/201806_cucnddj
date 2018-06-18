@@ -10,19 +10,19 @@
  - 每天分为上午（AM）和下午（PM）两场，每场又分为两个时段（1和2）， 每个时段时长1.5 - 2 小时。 E表示课后自习与练习，由学员自行组织。
  - 讲者：张昕之（XZ）， 胡辟砾（PL）
 
-| 日期 | 时段 | 内容 | 地点 | 备注 |
-| :---: | :---: | :---: | :---: | :---: |
-| 6.12 | AM1 | 数据新闻导论 （XZ） <p><li>[slides](slides/Notes_CUCNDDJ_1_Intro.pdf) & [reading list](slides/CUCNJJD_Readinglist_2018) on introduction of data-driven journalism  | 南广大讲堂 | 公开讲座 |
-| 6.12 | AM2 | 数据新闻生产与案例 （PL） | 南广大讲堂 | 公开讲座 |
-| 6.12 | PM1 | 组队， 选题策划、调研、资料搜集 （PL） | 三区教室302 | 学生工作坊 |
-| 6.12 | PM2 | 数据预处理：清洗、结构化、编码 （XZ）<p><li>[slides](slides/Notes_CUCNDDJ_4_Processing.pdf) on data processing | 三区教室302  | 学生工作坊 |
-| 6.12 | E | 选题论证，初步调研，搜集并整理数据 | 自行组织 | 自行组织
-| 6.13 | AM1 | 数据分析 （PL）： Excel基础， 描述性统计， 变量的相关关系， Pivot Table | 三区教室302 | 学生工作坊 |
-| 6.13 | AM2 | 数据可视化 （PL）： 基础图表， 多维可视化 <p><li>[handouts & cheatsheet](slides/Notes_CUCNDDJ_2,3,5,6_Analysis&DataViz.pdf) on data analysis & data visualization | 三区教室302 | 学生工作坊 |
-| 6.13 | PM | 特殊数据类型的分析和可视化 （XZ）： 网络， 地图， 文本 <p><li>slides on [networks](slides/Notes_CUCNDDJ_7a_Network.pdf), [maps, and texts](slides/Notes_CUCNDDJ_7b_Text+Map.pdf) | 三区教室302 | 学生工作坊 |
-| 6.13 | E | 进行数据分析和可视化，填充文章内容，形成初稿 | 自行组织 | 自行组织 |
-| 6.14 | AM | 分组作业小组讨论 （PL + XZ） | 三区教室302 | 学生工作坊 |
-| 6.14 | PM | 学生作品展示与点评 （PL + XZ） <p><li>[A glance at students' projects](stdprojs/stdprojs_title.md)| 南广大讲堂 | 公开讲座 |
+| 时间 | 内容 | 地点 | 备注 |
+| :---: | :---: | :---: | :---: |
+| 6.12 AM1 | 数据新闻导论 （XZ） <p><li>[slides](slides/Notes_CUCNDDJ_1_Intro.pdf) & [reading list](slides/CUCNJJD_Readinglist_2018) on introduction of data-driven journalism  | 南广大讲堂 | 公开讲座 |
+| 6.12 AM2 | 数据新闻生产与案例 （PL） | 南广大讲堂 | 公开讲座 |
+| 6.12 PM1 | 组队， 选题策划、调研、资料搜集 （PL） | 三区教室302 | 学生工作坊 |
+| 6.12 PM2 | 数据预处理：清洗、结构化、编码 （XZ）<p><li>[slides](slides/Notes_CUCNDDJ_4_Processing.pdf) on data processing | 三区教室302  | 学生工作坊 |
+| 6.12 E | 选题论证，初步调研，搜集并整理数据 | 自行组织 | 自行组织
+| 6.13 AM1 | 数据分析 （PL）： Excel基础， 描述性统计， 变量的相关关系， Pivot Table | 三区教室302 | 学生工作坊 |
+| 6.13 AM2 | 数据可视化 （PL）： 基础图表， 多维可视化 <p><li>[handouts & cheatsheet](slides/Notes_CUCNDDJ_2,3,5,6_Analysis&DataViz.pdf) on data analysis & data visualization | 三区教室302 | 学生工作坊 |
+| 6.13 PM | 特殊数据类型的分析和可视化 （XZ）： 网络， 地图， 文本 <p><li>slides on [networks](slides/Notes_CUCNDDJ_7a_Network.pdf), [maps, and texts](slides/Notes_CUCNDDJ_7b_Text+Map.pdf) | 三区教室302 | 学生工作坊 |
+| 6.13 E | 进行数据分析和可视化，填充文章内容，形成初稿 | 自行组织 | 自行组织 |
+| 6.14 AM | 分组作业小组讨论 （PL + XZ） | 三区教室302 | 学生工作坊 |
+| 6.14 PM | 学生作品展示与点评 （PL + XZ） <p><li>[A glance at students' projects](stdprojs/stdprojs_title.md)| 南广大讲堂 | 公开讲座 |
 
 ### About the speakers | 讲者简介
 - 张昕之。 香港浸会大学传理学院新闻系研究助理教授、数据与媒体传播专修课程副主任。 研究兴趣包括新媒体与社会变迁、信息传播技术与新闻生产、以及数位人文 等，成果发表在若干国际学术期刊，如计算机与人类行为（ Computers in Human Behavior）、国际政治科学评论（International Political Science Review）、 国际传播学刊（International Journal of Communication）、以及数字新闻学（Digital Journalism）等  。张博士曾于香港理工大学专业进修学院任职讲师以及人文学科联合召集人（2014-2016）。 他在香港城市大学媒体与传播系先后获得传播与新媒体硕士学位（2009）与传播学博士学位（2013)。
