@@ -14,14 +14,14 @@
 | :---: | :---: | :---: | :---: |
 | 6.12 AM | 数据新闻导论 （XZ） <p><li>[slides](slides/Notes_CUCNDDJ_1_Intro.pdf) & [reading list](slides/CUCNDDJ_Readinglist_2018.docx) on introduction of data-driven journalism  | 南广大讲堂 | 公开讲座 |
 | 6.12 AM | 数据新闻生产与案例 （PL） | 南广大讲堂 | 公开讲座 |
-| 6.12 PM | 组队， 选题策划、调研、资料搜集 （PL） | 三区教室302 | 学生工作坊 |
-| 6.12 PM | 数据预处理：清洗、结构化、编码 （XZ）<p><li>[slides](slides/Notes_CUCNDDJ_4_Processing.pdf) on data processing | 三区教室302  | 学生工作坊 |
+| 6.12 PM | 组队， 选题策划、调研、资料搜集 （PL） | 三区302 | 工作坊 |
+| 6.12 PM | 数据预处理：清洗、结构化、编码 （XZ）<p><li>[slides](slides/Notes_CUCNDDJ_4_Processing.pdf) on data processing | 三区302 | 工作坊|
 | 6.12 E | 选题论证，初步调研，搜集并整理数据 | 自行组织 | 自行组织
-| 6.13 AM | 数据分析 （PL）： Excel基础， 描述性统计， 变量的相关关系， Pivot Table | 三区教室302 | 学生工作坊 |
-| 6.13 AM | 数据可视化 （PL）： 基础图表， 多维可视化 <p><li>[handouts & cheatsheet](slides/Notes_CUCNDDJ_2,3,5,6_Analysis&DataViz.pdf) on data analysis & data visualization | 三区教室302 | 学生工作坊 |
-| 6.13 PM | 特殊数据类型的分析和可视化 （XZ）： 网络， 地图， 文本 <p><li>slides on [networks](slides/Notes_CUCNDDJ_7a_Network.pdf), [maps, and texts](slides/Notes_CUCNDDJ_7b_Text+Map.pdf) | 三区教室302 | 学生工作坊 |
+| 6.13 AM | 数据分析 （PL）： Excel基础， 描述性统计， 变量的相关关系， Pivot Table | 三区302 | 工作坊 |
+| 6.13 AM | 数据可视化 （PL）： 基础图表， 多维可视化 <p><li>[handouts & cheatsheet](slides/Notes_CUCNDDJ_2,3,5,6_Analysis&DataViz.pdf) on data analysis & data visualization | 三区302 | 工作坊 |
+| 6.13 PM | 特殊数据类型的分析和可视化 （XZ）： 网络， 地图， 文本 <p><li>slides on [networks](slides/Notes_CUCNDDJ_7a_Network.pdf), [maps, and texts](slides/Notes_CUCNDDJ_7b_Text+Map.pdf) | 三区302 | 工作坊 |
 | 6.13 E | 进行数据分析和可视化，填充文章内容，形成初稿 | 自行组织 | 自行组织 |
-| 6.14 AM | 分组作业小组讨论 （PL + XZ） | 三区教室302 | 学生工作坊 |
+| 6.14 AM | 分组作业小组讨论 （PL + XZ） | 三区302 | 工作坊 |
 | 6.14 PM | 学生作品展示与点评 （PL + XZ） <p><li>[A glance at students' projects](stdprojs/stdprojs_title.md)| 南广大讲堂 | 公开讲座 |
 
 ### About the speakers | 讲者简介
