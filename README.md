@@ -1,9 +1,9 @@
 ## 2018 Data-driven Journalism Workshop @ CUCN | 中国传媒大学南广学院 2018数据新闻工作坊
 
 ### Notes
- - This repository stores the course documents of the 2018 Data-driven Journalism Workshop for the Chinese University of Communication at Nanjing (CUCN) (中国传媒大学南广学院2018数据新闻工作坊)
- - The workshop was held on 12 - 14 June 2018, co-lectured by [Dr. Xinzhi Zhang](http://www.jour.hkbu.edu.hk/eng/people/dr-xinzhi-zhang/) and [Mr. Pii Hu](http://www.jour.hkbu.edu.hk/eng/people/mr-pili-hu/), both from the [Department of Journalism](http://www.jour.hkbu.edu.hk/eng/) at [Hong Kong Baptist University](http://www.hkbu.edu.hk).  
- - The slides and readings are in English, whereas the syllabus, MOI, and the working language among the students were Mandarin.
+ - This repository was created on 18 June 2018. It stores the course documents of the 2018 Data-driven Journalism Workshop for the Chinese University of Communication at Nanjing (CUCN) (中国传媒大学南广学院2018数据新闻工作坊).
+ - The workshop was held on 12 - 14 June 2018 in CUCN at Nanjing, co-lectured by [Dr. Xinzhi Zhang](http://www.jour.hkbu.edu.hk/eng/people/dr-xinzhi-zhang/) and [Mr. Pii Hu](http://www.jour.hkbu.edu.hk/eng/people/mr-pili-hu/), both from the [Department of Journalism](http://www.jour.hkbu.edu.hk/eng/) at [Hong Kong Baptist University](http://www.hkbu.edu.hk).  
+ - In this repo, the slides and readings are in English, whereas the syllabus, MOI, and the working language among the students were Mandarin.
 
 ### Course Syllabus | 课程大纲
  - 本次工作坊为期三天，从6月12日（周二）至6月14日（周四），包括公开讲座、数据新闻学生工作坊、以及作品交流与展示三部分。
@@ -29,8 +29,8 @@
 - 胡辟砾。 胡辟砾先生是具有企业家精神的技术专家，擅长传媒领域。 他的经验涵盖数据新闻学、新媒体及科技初创企业，热衷为媒体及其他行业，提出发展破格的技术。 在加入浸会大学之前，胡先生在端传媒任首席技术官，负责开发技术，驱动高速发展的电子媒体。 胡先生任职端传媒期间成立端Lab，设计的数据新闻报道策划在大中华及亚洲荣获奖项。 加入端传媒前，胡先生成立了社交媒体搜寻初创企业，获得创新科技署 “大学科技初创企业资助计划“及香港科技园“科技创业培育计划”的资助。 胡先生来香港之前，在北京的百度公司任职，专注链接分析及用户习惯研究。 胡先生拥有香港中文大学信息工程哲学硕士学位。
 
 ### Publicity
-- Call for registration: 2018 DDJ Workshop [ [by CUCN International Office](about:blank) ]
-- CUCN holds public seminars on data-driven journalism [ [by CUCN International Office](http://m.cucn.edu.cn/xwdw/3217.html?from=timeline&isappinstalled=0) ]
+- Call for registration: 2018 DDJ Workshop [ [by CUCN International Exchange Office](https://mp.weixin.qq.com/s/SNfNjufoqIWkuQLe6XNarA) ]
+- CUCN holds public seminars on data-driven journalism [ [by CUCN International Exchange Office](https://mp.weixin.qq.com/s/7D0uK8C3EIxZ3RZDJI1L-g) ]
 
 ### Acknowledgement
-- Xinzhi and Pili would like to thank the invitation from Chen Xi (CUCN) and the recommendation of Prof Huang Yu (HKBU). They would also like to thank Dr. Xie Pei (CUCN) for mobilizing the students and offering comments to the projects, together with Wu Xiaowen, Shang Qingling, and Dai Xiaotong for their contributions to the workshop. Of course, the workshop won't sail through without those 42 motivated and hard-working students at CUCN.
+- Xinzhi and Pili would like to thank the invitation from Chen Xi (CUCN) and the recommendation of Prof Huang Yu (HKBU). They would also like to thank Dr. Xie Pei (CUCN) for mobilizing the students and offering comments to the students' projects, together with Wu Xiaowen, Shang Qingling, and Dai Xiaotong for their contributions to the workshop. Moreover, the workshop won't sail through without those 42 motivated and hard-working students at CUCN.
