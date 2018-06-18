@@ -22,7 +22,7 @@
 | 6.13 PM | 特殊数据类型的分析和可视化 （XZ）： 网络， 地图， 文本 <p><li>slides on [networks](slides/Notes_CUCNDDJ_7a_Network.pdf), [maps, and texts](slides/Notes_CUCNDDJ_7b_Text+Map.pdf) | 三区302 | 工作坊 |
 | 6.13 E | 进行数据分析和可视化，填充文章内容，形成初稿 | 自行组织 | 自行组织 |
 | 6.14 AM | 分组作业小组讨论 （PL + XZ） | 三区302 | 工作坊 |
-| 6.14 PM | 学生作品展示与点评 （PL + XZ） <p><li>[A glance at students' projects](stdprojs/stdprojs_title.md) <p><li>[Group photo (large)](docs/Groupphoto_large_20180614) | 南广大讲堂 | 公开讲座 |
+| 6.14 PM | 学生作品展示与点评 （PL + XZ） <p><li>[A glance at students' projects](stdprojs/stdprojs_title.md) <p><li>[Group photo (large)](docs/Groupphoto_large_20180614.jpg) | 南广大讲堂 | 公开讲座 |
 
 ### About the speakers | 讲者简介
 - 张昕之。 香港浸会大学传理学院新闻系研究助理教授、数据与媒体传播专修课程副主任。 研究兴趣包括新媒体与社会变迁、信息传播技术与新闻生产、以及数位人文 等，成果发表在若干国际学术期刊，如计算机与人类行为（ Computers in Human Behavior）、国际政治科学评论（International Political Science Review）、 国际传播学刊（International Journal of Communication）、以及数字新闻学（Digital Journalism）等  。张博士曾于香港理工大学专业进修学院任职讲师以及人文学科联合召集人（2014-2016）。 他在香港城市大学媒体与传播系先后获得传播与新媒体硕士学位（2009）与传播学博士学位（2013)。
