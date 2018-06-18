@@ -12,7 +12,7 @@
 
 | 时间 | 内容 | 地点 | 备注 |
 | :---: | :---: | :---: | :---: |
-| 6.12 AM | 数据新闻导论 （XZ） <p><li>[slides](slides/Notes_CUCNDDJ_1_Intro.pdf) & [reading list](slides/CUCNJJD_Readinglist_2018) on introduction of data-driven journalism  | 南广大讲堂 | 公开讲座 |
+| 6.12 AM | 数据新闻导论 （XZ） <p><li>[slides](slides/Notes_CUCNDDJ_1_Intro.pdf) & [reading list](slides/CUCNDDJ_Readinglist_2018.docx) on introduction of data-driven journalism  | 南广大讲堂 | 公开讲座 |
 | 6.12 AM | 数据新闻生产与案例 （PL） | 南广大讲堂 | 公开讲座 |
 | 6.12 PM | 组队， 选题策划、调研、资料搜集 （PL） | 三区教室302 | 学生工作坊 |
 | 6.12 PM | 数据预处理：清洗、结构化、编码 （XZ）<p><li>[slides](slides/Notes_CUCNDDJ_4_Processing.pdf) on data processing | 三区教室302  | 学生工作坊 |
