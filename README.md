@@ -1,4 +1,4 @@
-### 2018 Data-driven Journalism Workshop @ CUCN | 中国传媒大学南广学院-香港浸会大学 2018数据新闻工作坊
+### 2018 Data-driven Journalism Workshop @ CUCN | 中国传媒大学南广学院 2018数据新闻工作坊
 
 ### Notes
  - This repository stores the course documents of the 2018 Data-driven Journalism Workshop for the Chinese University of Communication at Nanjing (CUCN) (中国传媒大学南广学院2018数据新闻工作坊)
