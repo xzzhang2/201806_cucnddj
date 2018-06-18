@@ -6,7 +6,7 @@
  - The slides and readings are in English, whereas the syllabus, MOI, and the working language among the students were Mandarin.
 
 ### Course Syllabus | 课程大纲
- - 本次工作坊为期三天，从6月12日（周二）至6月14日（周四），包括：公开讲座、数据新闻学生工作坊、以及作品交流与展示三部分。
+ - 本次工作坊为期三天，从6月12日（周二）至6月14日（周四），包括公开讲座、数据新闻学生工作坊、以及作品交流与展示三部分。
  - 每天分为上午（AM）和下午（PM）两场，每场又分为两个时段（1和2）， 每个时段时长1.5 - 2 小时。 E表示课后自习与练习，由学员自行组织。
  - 讲者：张昕之（XZ）， 胡辟砾（PL）
 
